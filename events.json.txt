@@ -1,0 +1,7 @@
+{}{
+  "events": [
+    {"name": "AI Workshop", "date": "2025-04-15"},
+    {"name": "Machine Learning Meetup", "date": "2025-05-22"},
+    {"name": "Deep Learning Conference", "date": "2025-06-10"}
+  ]
+}
