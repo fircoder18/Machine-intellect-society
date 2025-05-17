@@ -33,7 +33,7 @@ header {
 /* Section Styling */
 section {
     padding: 40px 0;
-    text-align: center;
+    text-align: left;
 }
 
 #mission-vision, #events, #contact {
